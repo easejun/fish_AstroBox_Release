@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "钓鱼",
-        "description": "这是一个制作时间较短的小游戏,有大量的功能暂时没有实现,玩法大致就是那样,等到正式版后再做详细介绍 购买后不退款 9Pro可以实现设备码验证,卸载后重装可以延续密钥 8Pro卸载重装密钥不延续,但可以联系作者获取密钥 QQ群:564555298 爱发电也可购买:https://afdian.com/a/zsxb666",
+        "description": "这是一个有关钓鱼的小游戏 QQ群:564555298 爱发电也可购买:https://afdian.com/a/zsxb666",
         "preview": [
             "preview.png"
         ],
@@ -16,16 +16,16 @@
     },
     "downloads": {
         "n67": {
-            "version": "0.2.0",
-            "file_name": "com.zsxb.watch.fish.release.0.2.0.rpk"
+            "version": "0.9.0",
+            "file_name": "com.zsxb.watch.fish.release.0.9.0.rpk"
         },
         "o65": {
-            "version": "0.2.0",
-            "file_name": "com.zsxb.watch.fish.release.0.2.0.rpk"
+            "version": "0.9.0",
+            "file_name": "com.zsxb.watch.fish.release.0.9.0.rpk"
         },
         "o65m": {
-            "version": "0.2.0",
-            "file_name": "com.zsxb.watch.fish.release.0.2.0.rpk"
+            "version": "0.9.0",
+            "file_name": "com.zsxb.watch.fish.release.0.9.0.rpk"
         }
     }
 }
